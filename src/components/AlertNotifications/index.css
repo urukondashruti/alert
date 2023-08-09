@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.success {
+  color: green;
+  height: 40px;
+  width: 40px;
+  margin-top: 27px;
+  margin-right: 10px;
+}
+
+.error {
+  color: red;
+  height: 40px;
+  width: 40px;
+  margin-top: 27px;
+  margin-right: 10px;
+}
+
+.warning {
+  color: yellow;
+  height: 40px;
+  width: 40px;
+  margin-top: 27px;
+  margin-right: 10px;
+}
+.info {
+  color: blue;
+  height: 40px;
+  width: 40px;
+  margin-top: 27px;
+  margin-right: 10px;
+}
+
+.div5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
